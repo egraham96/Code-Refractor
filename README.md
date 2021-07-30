@@ -7,5 +7,5 @@ To improve the accessibility of this webpage, I changed the HTML file to ensure 
 
 Link to deployed application: https://egraham96.github.io/homework-assignment-01/                                                                                              
 Link to GitHub Repository: https://github.com/egraham96/homework-assignment-01
-![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication.PNG)
+![Screenshot of Deployed Application](Screenshot of Deployed Application.PNG)
 
