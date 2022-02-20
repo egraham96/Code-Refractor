@@ -15,7 +15,7 @@ To improve the accessibility of this webpage, I changed the HTML file to ensure 
 * [Link to GitHub Repo](https://github.com/egraham96/Code-Refractor)
                                                                                         
 ## Preview of Working Site:
-![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication.PNG)
+![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication.png)
 
 ## Contact the Creator:
 Emma Graham: https://github.com/egraham96
