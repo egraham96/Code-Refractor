@@ -18,7 +18,7 @@ To improve the accessibility of this webpage, I changed the HTML file to ensure 
 ![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication.PNG)
 
 ## Contact the Creator:
-* Emma Graham: https://github.com/egraham96
+Emma Graham: https://github.com/egraham96
 
 ## License:
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
